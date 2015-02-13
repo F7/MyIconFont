@@ -1,5 +1,5 @@
 # MyIconFont
-it refers to [Symbols for Sketch](https://github.com/cognitom/symbols-for-sketch) as below. Customized only for my site.
+Based on [Symbols for Sketch](https://github.com/cognitom/symbols-for-sketch) as below. Customized only for my site.
 
 ![MyIconFont](images/myiconfont.png)
 
