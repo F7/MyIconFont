@@ -1,6 +1,9 @@
 # MyIconFont
 it refers to [Symbols for Sketch](https://github.com/cognitom/symbols-for-sketch) as below. Customized only for my site.
 
+![MyIconFont](images/myiconfont.png)
+
+
 - - -
 
 # Symbols for Sketch [![Stories in Ready](https://badge.waffle.io/cognitom/symbols-for-sketch.png?label=ready&title=Ready)](https://waffle.io/cognitom/symbols-for-sketch)
